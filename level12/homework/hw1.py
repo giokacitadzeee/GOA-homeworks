@@ -1,1 +1,1 @@
-#homework was about sololearn.
+#homework was solo learn
