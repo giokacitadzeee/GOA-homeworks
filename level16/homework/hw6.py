@@ -10,3 +10,4 @@ if shoes == "yes" and clothes == "yes":
     print("nikoloz can play with his friends")
 else:
     print("no he cant.")
+    
